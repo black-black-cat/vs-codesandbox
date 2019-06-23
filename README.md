@@ -3,4 +3,4 @@ This is the straight copy of the codesandbox.io theme.
 
 ## Screenshots
 
-![main](./screenshots/main.png)
+![main](https://github.com/black-black-cat/vs-codesandbox/raw/master/./screenshots/main.png)

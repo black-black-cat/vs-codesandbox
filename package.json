@@ -5,6 +5,14 @@
     "version": "0.1.0",
     "publisher": "blackblackcat",
     "icon": "icon.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/black-black-cat/vs-codesandbox.git"
+	},
+	"bugs": {
+		"url": "https://github.com/black-black-cat/vs-codesandbox/issues"
+	},
+    "homepage": "https://github.com/black-black-cat/vs-codesandbox/blob/master/README.md",
     "keywords": [
 		"Theme",
 		"Dark",
