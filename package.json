@@ -1,0 +1,27 @@
+{
+    "name": "vs-codesandbox",
+    "displayName": "vs-codesandbox",
+    "description": "",
+    "version": "0.1.0",
+    "publisher": "blackblackcat",
+    "keywords": [
+		"Theme",
+		"Dark",
+		"Codesandbox"
+	],
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vs Codesandbox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vs Codesandbox-color-theme.json"
+            }
+        ]
+    }
+}
